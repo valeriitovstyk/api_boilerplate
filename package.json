@@ -14,5 +14,10 @@
     "postgresql"
   ],
   "author": "valerii tovstyk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "pg": "^7.11.0"
+  }
 }
